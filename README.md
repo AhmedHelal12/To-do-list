@@ -1,7 +1,4 @@
-Weather-Journal App Project
-this project has been done by Ahmed Helal
-I've had a starter code which was HTML and CSS files
-this app is a practice on using API
-the usage of this project is to get the temperature of your state
-if you want to use this project you need to post your zip code and your feellings if you want
-I've worked with the client side and server side
+# To-do list app
+## This is a simple task manager implemented in JavaScript. The task manager allows you to add, delete, and mark tasks as completed. The tasks are stored in the local storage of the browser, ensuring persistence across page reloads.
+### How to use?
+#### Enter a task in the input field. Click the "Add" button to add the task to the task manager. Click on a task to toggle its status between completed and not completed. Click the "Delete" button next to a task to remove it from the task #### manager. Click the "Clear All" button to remove all tasks from the task manager.
